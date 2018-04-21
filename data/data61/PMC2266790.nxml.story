@@ -1,0 +1,7 @@
+We propose a novel framework to reduce background electroencephalogram (EEG) artifacts from
+multitrial visual-evoked potentials (VEPs) signals for use in brain-computer interface (BCI) design. An algorithm based on cyclostationary (CS) analysis is introduced to locate the suitable frequency ranges that contain the stimulus-related VEP components.
+CS technique does not require VEP recordings to be phase locked and exploits the intertrial similarities
+of the VEP components in the frequency domain. The obtained cyclic frequency spectrum enables
+detection of VEP frequency band. Next, bandpass or lowpass filtering is performed to reduce the EEG artifacts using these identified frequency ranges. This is followed by overlapping band EEG artifact reduction using genetic algorithm and independent component analysis (G-ICA) which uses mutual information (MI) criterion to separate EEG artifacts from VEP. The CS and GA methods need to be applied only to the training data; for the test data, the knowledge of the cyclic frequency bands and unmixing matrix would be sufficient for enhanced VEP detection. Hence, the framework could be used
+for online VEP detection. This framework was tested with various datasets and it showed satisfactory results with very few trials. Since the framework is general, it could be applied to the enhancement of evoked
+potential signals for any application.

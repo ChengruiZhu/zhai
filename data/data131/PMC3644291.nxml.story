@@ -1,0 +1,8 @@
+Background. 
+Floods are the most common natural disaster and the leading cause of natural disaster fatalities worldwide. Risk of catastrophic losses due to flooding is significant given deforestation and the increasing proximity of large populations to coastal areas, river basins and lakeshores. The objectives of this review were to describe the impact of flood events on human populations in terms of mortality, injury, and displacement and, to the extent possible, identify risk factors associated with these outcomes. This is one of five reviews on the human impact of natural disasters
+Methods. 
+Data on the impact of floods were compiled using two methods, a historical review of flood events from 1980 to 2009 from multiple databases and a systematic literature review of publications ending in October 2012. Analysis included descriptive statistics, bivariate tests for associations and multinomial logistic regression of flood characteristics and mortality using Stata 11.0.
+Findings. 
+There were 539,811 deaths (range: 510,941 to 568,680), 361,974 injuries and 2,821,895,005 people affected by floods between 1980 and 2009. Inconsistent reporting suggests this is an underestimate, particularly in terms of the injured and affected populations. The primary cause of flood-related mortality is drowning; in developed countries being in a motor-vehicle and male gender are associated with increased mortality, whereas female gender may be linked to higher mortality in low-income countries.
+Conclusions. 
+Expanded monitoring of floods, improved mitigation measures, and effective communication with civil authorities and vulnerable populations has the potential to reduce loss of life in future flood events. 

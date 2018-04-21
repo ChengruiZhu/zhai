@@ -1,0 +1,7 @@
+In recent years, research on vehicle network location service has begun to focus on its intelligence and precision. The accuracy of space-time information has become a core factor for vehicle network systems in a mobile environment. However, difficulties persist in vehicle satellite positioning since deficiencies in the provision of high-quality space-time references greatly limit the development and application of vehicle networks. In this paper, we propose a high-precision-based vehicle network
+location service to solve this problem. The major components of this study include the following: (1) application of wide-area
+precise positioning technology to the vehicle network system. An adaptive correction message broadcast protocol is designed to
+satisfy the requirements for large-scale target precise positioning in the mobile Internet environment; (2) development of a
+concurrence service system with a flexible virtual expansion architecture to guarantee reliable data interaction between vehicles
+and the background; (3) verification of the positioning precision and service quality in the urban environment. Based on this
+high-precision positioning service platform, a lane-level location service is designed to solve a typical traffic safety problem.

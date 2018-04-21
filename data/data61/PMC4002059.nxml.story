@@ -1,0 +1,24 @@
+Human
+papillomaviruses (HPVs) are involved in approximately 5%
+of all human cancer. Although initially recognized for causing nearly
+all cases of cervical carcinoma, much data has now emerged implicating
+HPVs as a causal factor in other anogenital cancers as well as a subset
+of head and neck squamous cell carcinomas (HNSCCs), most commonly
+oropharyngeal cancers. Numerous clinical trials have demonstrated
+that patients with HPV+ oropharyngeal squamous cell carcinoma (OPSCC)
+have improved survival compared to patients with HPV– cancers.
+Furthermore, epidemiological evidence shows the incidence of OPSCC
+has been steadily rising over time in the United States. It has been
+proposed that an increase in HPV-related OPSCCs is the driving force
+behind the increasing rate of OPSCC. Although some studies have revealed
+an increase in HPV+ head and neck malignancies over time in specific
+regions of the United States, there has not been a comprehensive study
+validating this trend across the entire country. Therefore, we undertook
+this meta-analysis to assess all literature through August 2013 that
+reported on the prevalence of HPV in OPSCC for patient populations
+within the United States. The results show an increase in the prevalence
+of HPV+ OPSCC from 20.9% in the pre-1990 time period to 51.4% in 1990–1999
+and finally to 65.4% for 2000–present. In this manner, our
+study provides further evidence to support the hypothesis that HPV-associated
+OPSCCs are driving the increasing incidence of OPSCC over time in
+the United States.

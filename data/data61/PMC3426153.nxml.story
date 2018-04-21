@@ -1,0 +1,10 @@
+Background
+A major destructive earthquake is predicted to shake the Tehran city in the near future. To mitigate the damage from such earthquakes, it is necessary to assess the preparedness of people and find the related risk factors.
+Methods
+A cross-sectional study was conducted in Tehran city among people aged 15 years or older in 2009. 1195 of Tehran's residents were interviewed using a questionnaire. Pearson chi-square test and binary logistic regression were used in order to evaluate the factors associated with preparedness against an earthquake.
+Results
+The analysis showed that 1076 (90.0%), 1160 (97.1%), and 490 (41.0%) of the participants achieved half of the possible scores for the knowledge, attitude, and practice components, respectively. Furthermore, in multivariate analysis low knowledge (p<0.001), having a high-school (p=0.033) or lower education (p<0.001) and living in Northern high-risk regions (p<0.001) of the Tehran were identified as risk factors for taking precautionary measures against earthquake. For low knowledge, lack of previous experience (p<0.001), and working as labor, businessman, employee (p=0.001) or being housewife (p=0.002) were related risk factors. In addition, people in the Southern high risk regions were significantly more knowledgeable (OR=0.618 compared to people in low risk regions) about earthquakes.
+Conclusions
+It is suggested that preparedness programs should target people with lower educational level and people in high risk regions especially the Northern districts of the city and aim at increasing public knowledge about earthquakes.
+Address for correspondence: Ali Ardalan, No. 78, Italia Ave, Department of Disaster Public Health, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran. Email: aardalan@gmail.com or aardalan@tums.ac.ir
+Citation: Ostad Taghizadeh A, Hosseini M, Navidi I, Mahaki AA, Ammari H, Ardalan A. Knowledge, Attitude and Practice of Tehran’s Inhabitants for an Earthquake and Related Determinants. PLOS Currents Disasters. 2012 Aug 6

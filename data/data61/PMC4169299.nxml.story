@@ -1,0 +1,8 @@
+Background
+The rapidly evolving 2014 Ebola virus disease (EVD) outbreak in West Africa is the largest documented in history, both in terms of the number of people infected and in the geographic spread. The high morbidity and mortality have inspired response strategies to the outbreak at the individual, regional, and national levels. Methods to provide real-time assessment of changing transmission dynamics are critical to the understanding of how these adaptive intervention measures have affected the spread of the outbreak.
+Methods
+In this analysis, we use the time series of EVD cases in Guinea, Sierra Leone, and Liberia up to September 8, 2014, and employ novel methodology to estimate how the rate of exponential rise of new cases has changed over the outbreak using piecewise fits of exponential curves to the outbreak data.
+Results
+We find that for Liberia and Guinea, the effective reproduction number rose, rather than fell, around the time that the outbreak spread to densely populated cities, and enforced quarantine was imposed on several regions in the countries; this may indicate that enforced quarantine may not be an effective control measure.
+Conclusions
+If effective control measures are not put in place, and the current rate of exponential rise of new cases continues, we predict 4400 new Ebola cases in West Africa during the last half of the month of September, with an upper 95% confidence level of 6800 new cases.

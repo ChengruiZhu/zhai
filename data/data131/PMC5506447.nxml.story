@@ -1,0 +1,8 @@
+Platelet-rich plasma (PRP) therapy is promising for treating skeletal muscle injuries in human athletes by promoting muscle regeneration. It might also be useful for treating muscle injuries in equine athletes. In the present
+study, muscle regeneration induced by injection of PRP into intact muscle of Thoroughbred was investigated. Autologous PRP and saline were injected twice into intact left and right gluteus medius muscles of seven clinically
+healthy Thoroughbreds. Muscle samples were collected from the injection sites by needle biopsy at 2 and 7 days after PRP injection. Immunohistochemical staining to identify the types of myosin heavy chains (MHCs) and satellite
+cells was performed to compare morphological changes among intact (pre-injection), saline-, and PRP-injected muscles. The expression of marker genes related to muscle regeneration (MHC-I, MHC-II, and embryonic MHC [MHC-e]),
+satellite cell activity (CK, Pax7, MyoD, and myogenin), and proinflammatory and promyogenic cytokines (IL-6, IGF-1, and HGF) was analyzed and compared between saline- and PRP-injected muscles. There were no obvious morphological
+differences among the three treatments. There were no significant differences in gene expression associated with satellite cell activity between saline and PRP injection at 7 days after injection. MHC genes showed significantly
+higher expression levels with PRP than with saline, including MHC-e at 2 days and MHC-I at 7 days after injection. It is suggested that injection of PRP into intact skeletal muscle does not induce specific morphological changes,
+but upregulate the expression of genes related to muscle regeneration.

@@ -1,0 +1,7 @@
+The mouse mammary gland may undergo cycles of
+proliferation, terminal differentiation, tissue remodeling, and more importantly malignant transformation. Mammary epithelial stem cells and their progeny participate in these processes. Mammary epithelial stem cells are multipotent, exhibit properties of self renewal (up to 7 divisions) and may exist either as long-lived nondividing cells or as proliferating-differentiating cells. The focus of this study was to locate stem cells by identifying them as long-lived, label-retaining mammary epithelial cells
+(LRCs) in growth active (developing) or growth static (aged) mammary ducts. Initially, primary epithelial cells were pulse labeled with either fluorescent tracker dye and/or BrdU. Cells were then transplanted into
+cleared juvenile syngeneic mammary fat pads and held for 5 weeks or 8 weeks. In this study, we demonstrate that LRCs are stem cells and their
+progeny (transitional cells) are arranged as transitional units (TUs). Additionally, TUs are located every 250 ± 75 μm in ducts or in the terminal end bud 200–600 μm in diameter. Molecules
+expressed in TUs were Zonula Occludens-1 and α-catenin
+proteins which were significantly detected in 75%–91% (

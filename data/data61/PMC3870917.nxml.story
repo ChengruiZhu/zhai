@@ -1,0 +1,8 @@
+Objective: To assess the effects of an intensive, multidisciplinary rehabilitation program for patients with early to mid-stage Huntington’s disease.
+Design: A prospective intervention study.
+Setting: Two Norwegian inpatient rehabilitation centers.
+Subjects: 37 patients, with early- to midstage Huntington’s disease
+Interventions: A one year rehabilitation program, consisting of three admissions of three weeks each, and a five-day evaluation stay approximately 3 months after the last rehabilitation admission. Focus was on physical exercise, social activities, and group/teaching sessions. There was also emphasis to implement of coordinated health care and social services for the patients.
+Main outcome measures: standard measures for motor function, including gait and balance, cognitive function, including MMSE and UHDRS cognitive assessment, anxiety and depression, activities of daily living (ADL), health related quality of life and Body Mass Index (BMI).
+Results: Significant improvements were observed in gait function, balance, in physical quality of life, anxiety and depression, as well as in BMI. ADL-function remained stable with no significant decline. Only one cognitive measure (SDMT) showed significant decline, while no decline was observed for the remaining cognitive measures.
+Conclusion: A multidisciplinary intensive rehabilitation program in patients with early and mid stage HD is associated with improved balance, gait function, physical quality of life and with reduced depressive and anxiety symptoms. Longer follow-up is needed to assess if these positive effects are sustained. There should be emphasis to establishment of long term and coordinated health care services for the HD patient

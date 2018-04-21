@@ -1,0 +1,8 @@
+Introduction. 
+Although rare, tsunamis have the potential to cause considerable loss of life and injury as well as widespread damage to the natural and built environments. The objectives of this review were to describe the impact of tsunamis on human populations in terms of mortality, injury, and displacement and, to the extent possible, identify risk factors associated with these outcomes. This is one of five reviews on the human impact of natural disasters.
+Methods. 
+Data on the impact of tsunamis were compiled using two methods, a historical review from 1900 to mid 2009 of tsunami events from multiple databases and a systematic literature review to October 2012 of publications. Analysis included descriptive statistics and bivariate tests for associations between tsunami mortality and characteristics using STATA 11.
+Findings. 
+There were 255,195 deaths (range 252,619-275,784) and 48,462 injuries (range 45,466-51,457) as a result of tsunamis from 1900 to 2009. The majority of deaths (89%) and injuries reported during this time period were attributed to a single event –the 2004 Indian Ocean tsunami. Findings from the systematic literature review indicate that the primary cause of tsunami-related mortality is drowning, and that females, children and the elderly are at increased mortality risk. The few studies that reported on tsunami-related injury suggest that males and young adults are at increased injury-risk.
+Conclusions. 
+Early warning systems may help mitigate tsunami-related loss of life. 

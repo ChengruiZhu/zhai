@@ -1,0 +1,8 @@
+Body weight is an important trait to confirm growth and development in humans and animals. In Thoroughbred racehorses, it is measured in the postnatal, training, and racing periods to evaluate growth and training
+degrees. The body weight of mature Thoroughbred racehorses generally ranges from 400 to 600 kg, and this broad range is likely influenced by environmental and genetic factors. Therefore, a genome-wide association study
+(GWAS) using the Equine SNP70 BeadChip was performed to identify the genomic regions associated with body weight in Japanese Thoroughbred racehorses using 851 individuals. The average body weight of these horses was
+473.9 kg (standard deviation: 28.0) at the age of 3, and GWAS identified statistically significant SNPs on chromosomes 3 (BIEC2_808466, P=2.32E-14), 9 (BIEC2_1105503, P=1.03E-7), 15 (BIEC2_322669, P=9.50E-6), and 18
+(BIEC2_417274, P=1.44E-14), which were associated with body weight as a quantitative trait. The genomic regions on chromosomes 3, 9, 15, and 18 included ligand-dependent nuclear receptor compressor-like protein (LCORL),
+zinc finger and AT hook domain containing (ZFAT), tribbles pseudokinase 2 (TRIB2), and myostatin (MSTN), respectively, as candidate genes. LCORL and ZFAT are associated with withers height in horses, whereas MSTN affects
+muscle mass. Thus, the genomic regions identified in this study seem to affect the body weight of Thoroughbred racehorses. Although this information is useful for breeding and growth management of the horses, the
+production of genetically modified animals and gene doping (abuse/misuse of gene therapy) should be prohibited to maintain horse racing integrity.

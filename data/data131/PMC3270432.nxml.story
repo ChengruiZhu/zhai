@@ -1,0 +1,9 @@
+The World Health Organization warns that chronic, noncommunicable diseases are rapidly becoming epidemic worldwide.
+Escalating rates of neurocognitive, metabolic, autoimmune and cardiovascular diseases cannot be ascribed only to genetics, lifestyle, and nutrition; early life and ongoing exposures, and bioaccumulated toxicants may also cause chronic disease. Contributors to ill health are summarized from
+multiple perspectives—biological effects of classes of toxicants, mechanisms of toxicity, and a synthesis of toxic contributors to major diseases.
+Healthcare practitioners have wide-ranging roles in addressing environmental factors in policy and public health and clinical practice.
+Public health initiatives include risk recognition and chemical assessment then exposure reduction, remediation, monitoring, and avoidance.
+The complex web of disease and environmental contributors is amenable to some straightforward clinical approaches addressing multiple toxicants.
+Widely applicable strategies include nutrition and supplements to counter toxic effects and to support metabolism; as well as exercise and sweating,
+and possibly medication to enhance excretion. Addressing environmental health and contributors to chronic disease has broad implications for society,
+with large potential benefits from improved health and productivity.

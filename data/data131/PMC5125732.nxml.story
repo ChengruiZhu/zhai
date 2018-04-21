@@ -1,0 +1,16 @@
+Physiologically based pharmacokinetic (PBPK) modeling and
+simulation can be used to predict the pharmacokinetic behavior of drugs in humans
+using preclinical data. It can also explore the effects of various physiologic
+parameters such as age, ethnicity, or disease status on human pharmacokinetics, as
+well as guide dose and dose regiment selection and aid drug–drug interaction risk
+assessment. PBPK modeling has developed rapidly in the last decade within both the
+field of academia and the pharmaceutical industry, and has become an integral tool in
+drug discovery and development. In this mini-review, the concept and methodology of
+PBPK modeling are briefly introduced. Several case studies were discussed on how PBPK
+modeling and simulation can be utilized through various stages of drug discovery and
+development. These case studies are from our own work and the literature for better
+understanding of the absorption, distribution, metabolism and excretion (ADME) of a
+drug candidate, and the applications to increase efficiency, reduce the need for
+animal studies, and perhaps to replace clinical trials. The regulatory acceptance and
+industrial practices around PBPK modeling and simulation is also
+discussed.

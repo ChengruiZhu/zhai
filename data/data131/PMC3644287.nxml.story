@@ -1,0 +1,8 @@
+Background. 
+Cyclones have significantly affected populations in Southeast Asia, the Western Pacific, and the Americas over the past quarter of a century. Future vulnerability to cyclones will increase due to factors including population growth, urbanization, increasing coastal settlement, and global warming. The objectives of this review were to describe the impact of cyclones on human populations in terms of mortality, injury, and displacement and, to the extent possible, identify risk factors associated with these outcomes. This is one of five reviews on the human impact of natural disasters.
+Methods.
+Data on the impact of cyclones were compiled using two methods, a historical review from 1980 to 2009 of cyclone events from multiple databases and a systematic literature review of publications ending in October 2012. Analysis included descriptive statistics and bivariate tests for associations between cyclone characteristics and mortality using Stata 11.0.
+Findings. 
+There were 412,644 deaths, 290,654 injured, and 466.1 million people affected by cyclones between 1980 and 2009, and the mortality and injury burden was concentrated in less developed nations of Southeast Asia and the Western Pacific. Inconsistent reporting suggests this is an underestimate, particularly in terms of the injured and affected populations. The primary cause of cyclone-related mortality is drowning; in developed countries male gender was associated with increased mortality risk, whereas females experienced higher mortality in less developed countries.
+Conclusions. 
+Additional attention to preparedness and early warning, particularly in Asia, can lessen the impact of future cyclones. 

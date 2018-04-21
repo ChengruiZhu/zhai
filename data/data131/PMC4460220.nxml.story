@@ -1,0 +1,7 @@
+Next-generation sequencing (NGS) technologies allow for the generation of whole exome or whole genome sequencing data, which can be used to identify novel genetic alterations associated
+with defined phenotypes or to expedite discovery of functional variants for improved patient care. Because this robust technology has the ability to identify all mutations within a genome, incidental findings
+(IF)- genetic alterations associated with conditions or diseases unrelated to the patient’s present condition for which current tests are being performed- may have important clinical ramifications. The
+current debate among genetic scientists and clinicians focuses on the following questions: 1) should any IF be disclosed to patients, and 2) which IF should be disclosed – actionable mutations, variants of unknown significance, or all IF? Policies
+for disclosure of IF are being developed for when and how to convey these findings and whether adults, minors, or individuals unable to provide consent have the right to refuse receipt of IF. In this review, we detail current NGS technology
+platforms, discuss pressing issues regarding disclosure of IF, and how IF are currently being handled in prenatal, pediatric,
+and adult patients.

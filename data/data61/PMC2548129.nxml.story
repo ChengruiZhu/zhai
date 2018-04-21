@@ -1,0 +1,7 @@
+This paper describes use of gradients of concentration generated in
+flow injection (FI) systems to perform determinations based on points where the concentration of titrant and analyte are at stoichiometric ratio. Two procedures were developed. In one procedure the titrant is injected in a FI manifold and merges with
+the sample which is continuously pumped towards the detector. In the other procedure the sample is injected and merged with the titrant which is continuously pumped. Both techniques make use of concentration gradients of the sample or titrant generated in FI
+manifolds that contain a mixing chamber. This gradient is calibrated employing only one standard solution (usually the titrant) in order to convert any detector signal, obtained in the
+elapsed time after injection, to instantaneous concentration values. The flow system is microcomputer controlled and data are treated to locate points where the concentration of titrant and analyte are at the stoichiometric ratio. These points are found in abrupt changes
+of the signal × concentration curves obtained in the presence of the reaction. The method has been evaluated for determination of Fe(II) and acetic acid by spectrophotometric and conductimetric detection, respectively. Results show a mean relative standard deviation lower than 1%, an average accuracy of 1% and a high
+sampling processing capability (40 to 60 samples per hour).

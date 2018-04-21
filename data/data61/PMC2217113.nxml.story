@@ -1,0 +1,7 @@
+3.2, were inserted into a Shaker potassium channel background. These S4 donor channels have distinctly different voltage-dependent gating properties and S4 amino acid sequences. None of the S4 chimeras have the gating 
+behavior of their respective S4 donor channels. The conductance–voltage relations of all S4 chimeras are shifted 
+to more positive voltages and the slopes are decreased. There is no consistent correlation between the nominal 
+charge content of the S4 and the slope of the conductance–voltage relation, suggesting that the mutations introduced by the S4 chimeras may alter cooperative interactions in the gating process. We compared the gating behavior of the Shaw S4 chimera with its parent channels, Shaker and Shaw, in detail. The Shaw S4 substitution alters 
+activation gating profoundly without introducing obvious changes in other channel functions. Analysis of the voltage-dependent gating kinetics suggests that the dominant effect of the Shaw S4 substitution is to alter a single cooperative transition late in the activation pathway, making it rate limiting. This interpretation is supported further 
+by studies of channels assembled from tandem heterodimer constructs with both Shaker and Shaw S4 subunits. 
+Activation gating in the heterodimer channels can be predicted from the properties of the homotetrameric channels only if it is assumed that the mutations alter a cooperative transition in the activation pathway rather than independent transitions. 

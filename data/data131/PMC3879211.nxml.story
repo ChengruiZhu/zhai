@@ -1,0 +1,8 @@
+Background
+Extreme events (e.g. flooding) threaten critical infrastructure including power supplies. Many interlinked systems in the modern world depend on a reliable power supply to function effectively. The health sector is no exception, but the impact of power outages on health is poorly understood. Greater understanding is essential so that adverse health impacts can be prevented and/or mitigated.
+Methods
+We searched Medline, CINAHL and Scopus for papers about the health impacts of power outages during extreme events published in 2011-2012. A thematic analysis was undertaken on the extracted information. The Public Health England Extreme Events Bulletins between 01/01/2013 - 31/03/2013 were used to identify extreme events that led to power outages during this three-month period.
+Results
+We identified 20 relevant articles. Power outages were found to impact health at many levels within diverse settings. Recurrent themes included the difficulties of accessing healthcare, maintaining frontline services and the challenges of community healthcare. We identified 52 power outages in 19 countries that were the direct consequence of extreme events during the first three months of 2013.
+Conclusions
+To our knowledge, this is the first review of the health impacts of power outages. We found the current evidence and knowledge base to be poor. With scientific consensus predicting an increase in the frequency and magnitude of extreme events due to climate change, the gaps in knowledge need to be addressed in order to mitigate the impact of power outages on global health.

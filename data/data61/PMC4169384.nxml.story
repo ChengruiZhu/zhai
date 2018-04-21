@@ -1,0 +1,6 @@
+Introduction:
+As a result of the gaps in humanitarian response highlighted by several reports, the international community called for an increased professionalization of humanitarian aid workers. This paper describes a pilot project by an Italian university and a non-profit, non-governmental organization to implement a medical apprenticeship in low-income countries during Anesthesia and Intensive Care Medicine residencies.
+Methods:
+Before deployment, participants were required to complete a dedicated online training course about safety and security in the field, principles of anesthesia at the district hospital level, emergency and essential surgical care, essentials of medical treatment in resource-constrained environments and psychological support in emergencies.
+Results:
+At the end of the program, a qualitative self-evaluation questionnaire administered to participants highlighted how the project allowed the participants to advance their professional skills when working in a low-resource environment, while also mastering their adapting skills and the ability to interact and cooperate with local healthcare personnel. The project also proved to be a means for personal growth, making these experiences a recommendation for all residents as a necessary step for the professionalization of healthcare personnel involved in humanitarian aid.

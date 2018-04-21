@@ -1,0 +1,12 @@
+Introduction
+Reviews of mass gathering events have traditionally concentrated on crowd variables that affect the level and type of medical care needed. Weather and environmental hazards at mass gathering events have not been fully researched. This review examines these events and aims to provide future suggestions for event organisers, medical resource planners, and emergency services, including local hospital emergency departments.
+Methods
+A review was conducted using computerised data bases: MEDLINE, The Cochrane Library, HMIC and EMBASE, with Google used to widen the search beyond peer-reviewed publications, to identify grey literature. All peer-review literature articles found containing information pertaining to lessons identified from mass gathering disasters due to weather or environmental hazards leading to participant death, injury or illness were analysed and reviewed. Disasters occurring due to crowd variables were not included. These articles were read, analysed, abstracted and summarised.
+Results
+20 articles from literature search were found detailing mass gathering disasters relating directly to weather or environmental hazards from 1988 – 2011, with only 17 cases found within peer-review literature. Two events grey literature from 2011 are due to undergo further inquiry while one article reviews an event originally occurring in 1922. Analysis of cases were categorised in to heat and cold-related events, lightning and storms and disease outbreak.
+Conclusions
+Mass gathering events have an enormous potential to place a severe strain on the local health care system, Prior health resource and environmental planning for heat & cold-related illness, lightning & storms, and disease outbreak can advance emergency preparedness and response to potential disasters.
+Citation: Soomaroo L, Murray V. Weather and Environmental Hazards at Mass Gatherings. PLoS Currents Disasters. 2012 Jul 31
+Keywords: Mass Gatherings, Disasters, Sporting Events, Festivals, Concerts, Storm, Lightning, Cyclone, Hot-weather illness, Cold-weather illness, Disease, Public Health, Syndromic Surveillance
+Abbreviations: ALS – Advance Life support; BLS – Basic Life support; ED – Emergency Department; 
+EMS – Emergency Medical Services; PPR – Patient Presentation Rate

@@ -1,0 +1,6 @@
+The formulae for calculation of carry-over and sample interaction
+are derived for the first time in this study. A scheme proposed by Thiers et al. (two samples of low concentration followed by a high concentration sample and low concentration sample) is verified and recommended for the determination of the carry-over coeffcient.
+The derivation demonstrates that both widely used schemes of a high concentration sample followed by two low concentration samples, and a low concentration sample followed by two high concentration samples actually measure the sum of the carry-over
+coeffcient and sample interaction coefficient. A scheme of three low concentration samples followed by a high concentration sample is proposed and verified for determination of the sample interaction coeffcient. Experimental results indicate that carry-over is a strong
+function of cycle time and a weak function of ratio of sample time to wash time. Sample dispersion is found to be a function of sample time. Fitted equations can be used to predict the carry-over, absorbance and dispersion given sample times, and wash times
+for an analytical system. Results clearly show the important role of intersample air segmentation in reducing carry-over, sample interaction and dispersion.

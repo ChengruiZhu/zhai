@@ -1,0 +1,8 @@
+Numerous gel-based and nongel-based technologies are used to detect protein changes potentially
+associated with disease. The raw data, however, are abundant with technical and structural complexities, making statistical analysis a difficult task. Low-level analysis issues (including normalization, background correction, gel and/or spectral alignment, feature detection, and image registration) are substantial problems that need to be addressed, because any large-level data analyses
+are contingent on appropriate and statistically sound low-level procedures. Feature detection approaches are particularly interesting due to the increased computational speed associated with subsequent calculations. Such summary data corresponding to image features provide a significant reduction in overall data size and structure while retaining key information. In this paper, we focus
+on recent advances in feature detection as a tool for preprocessing proteomic data. 
+This work highlights existing and newly developed feature detection algorithms for proteomic
+datasets, particularly relating to time-of-flight mass spectrometry, and two-dimensional gel electrophoresis. Note, however, that the associated data structures (i.e., spectral data, and images
+containing spots) used as input for these methods are obtained via all gel-based and nongel-based
+methods discussed in this manuscript, and thus the discussed methods are likewise applicable.

@@ -1,0 +1,6 @@
+In the era of advocacy groups, it seems appropriate to contemplate how best to utilize them for patient benefit in the management of those with disorders of sex
+development (DSD), including those with congenital adrenal hyperplasia (CAH). Such
+interactions, to be constructive, require a spirit of cooperation to optimize outcomes. A
+traditional view of advocacy groups as a type of defender of patients' rights appears
+outdated and it is time that the benefits of their participation be fully realized. Open
+dialogue with all patients/families, including those who feel harmed by prior care are paramount. We discuss several recent examples of interactions that illustrate how dialogue in the name of “advocacy” can have a negative impact on developing a framework for ongoing constructive dialogue and actions. Such approaches completely change the dynamics of subsequent interactions. Physicians involved in the care of individuals with DSD, including those with CAH, and patients should be aware of confrontational techniques and legal implications that may be used by some advocacy groups. Hopefully recent efforts to promote a multidisciplinary care approach for patients with DSD/CAH will continue to foster mutual cooperation between team members, where the common goal is improving patient/family outcomes and quality of life. 

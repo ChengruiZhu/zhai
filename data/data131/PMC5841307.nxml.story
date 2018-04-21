@@ -1,0 +1,18 @@
+
+pathway seems to influence the CSC and thus may impact hallmarks of HCC, such as
+liver fibrosis, cirrhosis, and tumor progression. Therefore, blocking this pathway
+may offer an appealing and druggable target. In our study, we have used galunisertib
+(LY2157299), a selective ATP-mimetic inhibitor of TGF-β receptor I (TGFβI/ALK5)
+activation, currently under clinical investigation in HCC patients. Because the drug
+resistance is mainly mediated by CSCs, we tested the effects of galunisertib on
+stemness phenotype in HCC cells to determine whether TGF-β signaling modulates CSC
+niche and drug resistance. Galunisertib modulated the expression of stemness-related
+genes only in the invasive (HLE and HLF) HCC cells inducing a decreased expression
+of CD44 and THY1. Furthermore, galunisertib also reduced the stemness-related
+functions of invasive HCC cells decreasing the formation of colonies, liver
+spheroids and invasive growth ability. Interestingly, CD44 loss of function mimicked
+the galunisertib effects on HCC stemness-related functions. Galunisertib treatment
+also reduced the expression of stemness-related genes in ex vivo human HCC
+specimens. Our observations are the first evidence that galunisertib effectiveness
+overcomes stemness-derived aggressiveness via decreased expression CD44 and
+THY1.

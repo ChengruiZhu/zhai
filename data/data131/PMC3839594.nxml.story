@@ -1,0 +1,6 @@
+Background
+Duchenne muscular dystrophy is a lethal, progressive, muscle-wasting disease caused by mutations in the DMD gene. Structural remodelling processes are responsible for muscle atrophy and replacement of myofibers by fibrotic and adipose tissues. Molecular interventions modulating catabolic pathways, such as the ubiquitin-proteasome and the autophagy-lysosome systems, are under development for Duchenne and other muscular dystrophies. The Akt signaling cascade is one of the main pathways involved in protein synthesis and autophagy repression and is known to be up-regulated in dystrophin null mdx mice.
+Results
+We report that autophagy is triggered by fasting in the tibialis anterior muscle of control mice but not in mdx mice. Mdx mice show persistent Akt activation upon fasting and failure to increase the expression of FoxO3 regulated autophagy and atrophy genes, such as Bnip3 and Atrogin1. We also provide evidence that autophagy is differentially regulated in mdx tibialis anterior and diaphragm muscles.
+Conclusions
+Our data support the concept that autophagy is impaired in the tibialis anterior muscle of mdx mice and that the regulation of autophagy is muscle type dependent. Differences between muscle groups should be considered during the pre-clinical development of therapeutic strategies addressing muscle metabolism. 

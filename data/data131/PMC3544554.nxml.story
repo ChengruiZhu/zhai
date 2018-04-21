@@ -1,0 +1,8 @@
+Background
+In January 2010, Haiti was struck by a powerful earthquake, killing and wounding hundreds of thousands and leaving millions homeless. In order to better understand the severity of the crisis, and to provide early warning of epidemics or deteriorations in the health status of the population, Médecins Sans Frontières established surveillance for infections of epidemic potential and for death rates and malnutrition prevalence.
+Methods
+Trends in infections of epidemic potential were detected through passive surveillance at health facilities serving as sentinel sites. Active community surveillance of death rates and malnutrition prevalence was established through weekly home visits.
+Results 
+There were 102,054 consultations at the 15 reporting sites during the 26 week period of operation. Acute respiratory infections, acute watery diarrhoea and malaria/fever of unknown origin accounted for the majority of proportional morbidity among the diseases under surveillance. Several alerts were triggered through the detection of immediately notifiable diseases and increasing trends in some conditions. Crude and under-5 death rates, and acute malnutrition prevalence, were below emergency thresholds.
+Conclusion
+Disease surveillance after disasters should include an alert and response component, requiring investment of resources in informal networks that improve sensitivity to alerts as well as on the more common systems of data collection, compilation and analysis. Information sharing between partners is necessary to strengthen early warning systems. Community-based surveillance of mortality and malnutrition is feasible but requires careful implementation and validation. 

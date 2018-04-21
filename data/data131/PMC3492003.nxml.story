@@ -1,0 +1,8 @@
+Introduction
+Wildfires are common globally. Although there has been considerable work done on the health effects of wildfires in countries such as the USA where they occur frequently there has been relatively little work to investigate health effects in the United Kingdom. Climate change may increase the risk of increasing wildfire frequency, therefore there is an urgent need to further understand the health effects and public awareness of wildfires. This study was designed to review current evidence about the health effects of wildfires from the UK standpoint.
+Methods
+A comprehensive literature review of international evidence regarding wildfire related health effects was conducted in January 2012. Further information was gathered from authors’ focus groups.
+Results
+A review of the published evidence shows that human health can be severely affected by wildfires. Certain populations are particularly vulnerable. Wood smoke has high levels of particulate matter and toxins. Respiratory morbidity predominates, but cardiovascular, ophthalmic and psychiatric problems can also result. In addition severe burns resulting from direct contact with the fire require care in special units and carry a risk of multi – organ complications. The wider health implications from spreading air, water and land pollution are of concern. Access to affected areas and communication with populations living within them is crucial in mitigating risk.
+Conclusion
+This study has identified factors that may reduce public health risk from wildfires. However more research is needed to evaluate longer term health effects from wildfires. An understanding of such factors is vital to ensure preparedness within health care services for such events. 

@@ -1,0 +1,6 @@
+Objective: To assess the possibility of Dentists being able to screen patients with higher risk of vascular diseases. 
+Material: Kodak 8000C Orthopantomographer, eco-Doppler Logiq-500 General Electric at the Lisbon Hospital Particular. 
+Methods: Assessment of orthopantomographies made to 142 patients aged 50 or more, as well as the existing risk factors. Conduction of carotid eco-Doppler to patients who appear to have calcified plaques of the atheroma. 
+Results: Strong dependence between dichotomised age and having the pathology (p = 0.02).Smokers are twice more likely to present plaques (OR= 2). Being hypertensive increases in about 1.4 the likelihood of having a stroke (OR= 1.4).
+Of the 27 individuals who presented calcifications in the Orthopantomography, they were all submitted to an eco-Doppler and 21 had the pathology confirmed. 27 individuals, who did not show any plaques in the Orthopantomography, were randomly selected to be the control group. They were submitted to an eco-Doppler. And 23 confirmed the non-existence of plaques. 
+Conclusions: Orthopantomography used for assessing the oral cavity reveals more information which should be the object of the Dentist’s attention.
