@@ -1,7 +1,0 @@
-
-Perilymph fistula is defined as a leak of perilymph at the oval or round window. It excludes other conditions with “fistula” tests due to a dehiscent semicircular canal from cholesteotoma and the superior canal dehiscence syndrome. First recognized as a complication of stapedectomy, it then became apparent that
-head trauma and barotraumatic trauma from flying or diving could be a cause. Descriptions of “spontanenous” perilymph fistulas with no trauma history followed. It is
-likely that most perilymph fistula patients have a congential potential weakness of the otic capsule at the round or oval window. The vestibular symptoms have been
-assumed to be due to endolymphatic hydrops, but there is poor evidence. Their unilateral disequilibrium, nausea, and subtle cognitive problems suggest they are due to otolith
-disfunction and that these patients have a specific balance abnormality, unlike subjects with unilateral vestibular hypofuction. In this series of twenty patients with a confirmed fistula a
-logical simplification of Singleton's “eyes-closed turning” test predicted a PLF in twelve with a trauma history. In four no cause was found. In three a prior traumatic event was later recalled, but one patient had concealed it.

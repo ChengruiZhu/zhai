@@ -1,8 +1,0 @@
-Introduction
-The French warning system for heat waves is based on meteorological forecasts. Near real-time health indicators are used to support decision-making, e.g. to extend the warning period, or to choose the most appropriate preventive measures. They must be analysed rapidly to provide decision-makers useful and in-time information. The objective of the study was to evaluate such health indicators.
-Methods
-A literature review identified a range of possible mortality and morbidity indicators. A reduced number were selected, based on several criteria including sensitivity to heat, reactivity, representativity and data quality. Two methods were proposed to identify indicator-based statistical alarms: historical limits or control charts, depending on data availability. The use of the indicators was examined using the 2006 and 2009 heat waves.
-Results
-Out of 25 possible indicators, 5 were selected: total mortality, total emergency calls, total emergency visits, emergency visits for people aged 75 and over and emergency visits for causes linked to heat. In 2006 and 2009, no clear increases were observed during the heat waves. The analyses of real-time health indicators showed there was no need to modify warning proposals based on meteorological parameters.
-Discussion
-These findings suggest that forecasted temperatures can be used to anticipate heat waves and promote preventive actions. Health indicators may not be needed to issue a heat wave alert, but daily surveillance of health indicators may be useful for decision-makers to adapt prevention measures. 

@@ -1,7 +1,0 @@
-The degree of fetal growth restriction has been unclear in equine reproduction. In this study, 2,195 fetuses from 2,137 abortions during 11 seasons were examined to determine the causes of abortion, and fetal size dimensions
-(crown rump length and body weight) were measured. In total, 900 cases (42.1%) of abortion were identified as caused by viral infection (215, 10.1%), bacterial infection (156, 7.3%), fungal infection (25, 1.2%), circulation
-failure (406, 19.0%), multiple causes (66, 3.1%), deformity (13, 0.6%), placental abnormality (12, 0.6%), and other causes (7, 0.3%). All viral infections originated from equine herpes virus. Of all abortions, 94.3% occurred
-between 181–360 days of pregnancy, and the gestational ages at abortion were different based on the causes. Fetal sizes in viral abortions were considerably larger than those due to other reasons. Compared with viral infection,
-the crown rump length size dimension of fetuses aborted from multiple and fungal infection was affected. In addition, bacterial infection, circulation failure, and unknown causes of abortions also contributed to growth restriction
-in terms of body weight. In conclusion, the present study showed details of equine abortion and the relationships between causes of abortion and fetal size. Most of the aborted fetuses showed restrictions in their growth. The
-manifestations of growth restriction were more related to weight than skeletal length.

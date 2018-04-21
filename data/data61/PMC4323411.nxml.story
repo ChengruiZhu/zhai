@@ -1,9 +1,0 @@
-Background and objective: 
-Growing evidence is indicating that some of disaster affected people face challenges to resume normal life several months after an earthquake. However, there is no sufficient in-depth understanding of complex process of resuming normal life after an earthquake in Iran, as one of the most disaster-prone countries in the world, and in rural areas as a particular setting. This study aimed to explore challenges of return to normalcy in rural earthquake-stricken areas of Iran.
-Methods: 
-The study was conducted using qualitative content analysis method (Graneheim approach). Twenty people from the earthquake-stricken areas and seven qualified experts were selected via purposeful sampling .Data was collected through semi-structured interviews, focus group discussions, and field notes from August 2013 to January 2014. Data collection continued to the point of data saturation (no new information was provided by interviewees). Data saturation supported the sample size. Data analysis was based on qualitative content analysis principles.
-Results:
-“Social uncertainty and confusion” was the most prominent challenge of return to the normal life after earthquake, which was categorized into six concepts of social vulnerability, lack of comprehensive rehabilitation plan, incomplete reconstruction, ignorance of local social capital, waste of assets, and psychological problems.
-Conclusions: 
-Findings showed that social uncertainty and confusion occurs as a result of negligence of some important social aspects in process of returning to the normal life. This issue, in turn, can greatly interrupt the normal developmental processes. Understanding the challenges of life recovery after disasters will help policy makers consider social rehabilitation as a key factor in facilitation of return to normal life process after earthquakes.
-Keywords: Disaster; earthquake; social rehabilitation; social uncertainty. 

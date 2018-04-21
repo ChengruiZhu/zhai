@@ -1,8 +1,0 @@
--permeable cation TRP channels in the airways, both under normal and disease conditions. The aim of
-this review was to summarize the current knowledge of TRP channels in sensing oxidative, chemical irritant and temperature stimuli by discussing expression and function of several TRP channels in
-relevant cell types within the respiratory tract, ranging from sensory neurons to airway smooth muscle and epithelial cells. Several of these channels, such as TRPM2, TRPM8, TRPA1 and
-TRPV1, are discussed in much detail to show that they perform diverse, and often overlapping or contributory, roles in airway hyperreactivity, inflammation, asthma, chronic obstructive pulmonary disease and other
-respiratory disorders. These include TRPM2 involvement in the disruption of the bronchial epithelial tight junctions during oxidative stress, important roles of TRPA1 and TRPV1 channels in airway inflammation, hyperresponsiveness,
-chronic cough, and hyperplasia of airway smooth muscles, as well as TRPM8 role in COPD and mucus hypersecretion. Thus, there is increasing evidence that TRP channels not only function as an integral part of the important endogenous
-protective mechanisms of the respiratory tract capable of detecting and ensuring proper physiological responses to various oxidative, chemical irritant and temperature stimuli, but that altered expression, activation and regulation of these
-channels may also contribute to the pathogenesis of respiratory diseases.

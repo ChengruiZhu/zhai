@@ -1,7 +1,0 @@
-The combined thickness of the uterus and placenta (CTUP) and ultrasonographic images of uteroplacental tissues were investigated in 35 pregnant heavy draft horses in Months 7–12 of pregnancy. The mares were divided into
-three groups: those pathologically diagnosed as placentitis (placentitis group, n=3); those who had abortion, premature birth, or fetal malformation (abnormal group, n=7); and those who had no abnormal findings (normal
-group, n=25). In the normal group, CTUP increased as pregnancy progressed from Months 7 (median, 7.08 mm; range, 5.68–11.27) to 12 (13.31 mm; 7.44–16.31 mm) (P<0.05) and was higher than those reported previously in
-Thoroughbred, quarter, and American paint horses. Values of CTUP greater than the 75th percentile of the normal group from Months 7 (7.54 mm) to 12 (15.19 mm) were detected in 100% of the placentitis group (3/3) and in
-86% of the abnormal group (6/7). Ultrasonographic images showing placental separation were obtained in 67% of the placentitis group (2/3), 29% of the abnormal group (2/7), and 20% of the normal group (5/25). Pathological
-placental edema and ultrasonographic images showing uteroplacental roughness or distinguishability were observed even in the normal group. These findings suggest that increased CTUP and placental separation would reflect
-placentitis and abnormal pregnancies and may help to detect them in heavy draft horses.

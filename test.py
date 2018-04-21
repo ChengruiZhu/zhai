@@ -17,8 +17,8 @@ SENTENCE_START = '<s>'
 SENTENCE_END = '</s>'
 
 all_train_urls = "url_lists/medical_train.txt"
-all_val_urls = "url_lists/medical_val.txt"
-all_test_urls = "url_lists/medical_test.txt"
+all_val_urls = "url_lists/medical_train.txt"
+all_test_urls = "url_lists/medical_train.txt"
 
 cnn_tokenized_stories_dir = "cnn_stories_tokenized"
 dm_tokenized_stories_dir = "dm_stories_tokenized"
@@ -26,8 +26,8 @@ finished_files_dir = "finished_files"
 chunks_dir = os.path.join(finished_files_dir, "chunked")
 
 # These are the number of .story files we expect there to be in cnn_stories_dir and dm_stories_dir
-num_expected_cnn_stories = 5
-num_expected_dm_stories = 5
+num_expected_cnn_stories = 67642
+num_expected_dm_stories = 1
 
 VOCAB_SIZE = 200000
 CHUNK_SIZE = 1000 # num examples per chunk, for the chunked data

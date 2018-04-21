@@ -1,8 +1,0 @@
-Background
-To adequately plan relief, adequate information that describe and quantify the severity of a disaster, and estimate the number of affected population, is rapidly needed. However, needs assessments describing the severity of the disaster has been shown to be conducted too late in order to guide the first days relief interventions. The aim of this study was to assess availability of early disaster severity information on Internet during the first seven days following the 2010 Haiti earthquake and assess to which extent the information was consistent with later revelations.
-Methods
-We searched the well acknowledged web portal Relief Web for all Haiti postings during the first seven days (12 -18 January 2010) after the earthquake. A form was created to classify and quantify extracted severity variables found in the postings. The results were compiled, analysed and compared with CRED (Centre for Research on the Epidemiology of Disaster) official data made available later.
-Findings
-A total of 822 reports were posted where of 15 % provided a numerical estimate of the affected population, while 10% had an estimate on the number of dead. On day four 200 000 dead was reported, which is of the same magnitud compared to later official estimates (CRED data). Not a single report described the data collection method.
-Conclusions
-Within a few days of the 2010 Haiti earthquake it was possible to find surprisingly accurate information regarding severity of the earthquake but the available data must be questioned as no method was reported. More specialized and independent needs assessment agencies may improve availability of strategic information in the early onset of a disaster.

@@ -1,6 +1,0 @@
-Objective: Proper shelter site selection is necessary for long-term welfare of earthquake affected people. This study aims to explore the criteria that need to be considered after earthquakes. 
-Methods: Through a systematic review, 273 articles found that were published till April 2014. Among these, seven articles have been selected and analyzed for the criteria that they introduced for sheltering site selection after earthquakes. 
-Results: Out of 27 proposed criteria, accessibility and proximity to homes of affected people were stressed in all the papers. Moreover, seven other criteria were the same in most of the papers including suitable size, suitable distance from hazardous areas, geological hazards and land slope, suitable distance from medical centers, water supply and Security. 
-We categorized all the mentioned criteria in six main categories. Size and location, disaster risk reduction, relief and rescue facilities, feasibility of the site, environmental and social aspects are the main categories.
-Conclusion: Selection and applying proper criteria for shelter site selection after earthquakes is a multi-disciplinary task. The decision needs relevant models and/or tools. Geographic Information System (GIS) is a useful tool for this purpose.
-Key words: Disaster, earthquake, shelter, site selection, systematic review

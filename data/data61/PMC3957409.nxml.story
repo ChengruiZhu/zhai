@@ -1,9 +1,0 @@
-Introduction:
-The fire and explosion of the Deepwater Horizon oil rig resulted in an enormous oil spill that threatened large distances of coastline. The overall response was led by the United States Coast Guard and involved the oil company BP, federal agencies, and state and local governments of five states. 
-Methods:
-The Occupational Safety and Health Administration and the National Institute for Occupational Safety and Health focused extensive resources on ensuring that BP and its contractors provided safe working conditions for thousands of workers involved in the response. Federal personnel visited worksites daily, identifying hazards and means of abatement; assessed training programs to ensure that workers were adequately trained in languages they could understand; monitored chemical exposures and determined that the proper personal protective equipment was deployed; insisted on implementation of a heat mitigation program; rostered thousands of workers; and conducted extensive outreach in communities impacted by the spill. 
-Results:
-Advance planning, immediate deployment, and collaboration across agencies helped ensure that the response operations resulted in no worker fatalities, and relatively few injuries and illnesses. 
-Conclusions:
-For future responses, improvements should be made in how safety and health information, as well as the process behind safety and health decisions, are communicated to the public.
-Citation: Michaels D, Howard J. Review of the OSHA-NIOSH Response to the Deepwater Horizon Oil Spill: Protecting the Health and Safety of Cleanup Workers. PLoS Currents Disasters. 2012 Jul 18

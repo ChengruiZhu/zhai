@@ -1,8 +1,0 @@
-Objective 
-To provide an overview of the health needs following the Great East Japan Earthquake Disaster and the lessons identified.
-Methods
-The relevant of peer review and grey literature articles in English and Japanese, and books in Japanese, published from March 2011 to September 2012 were searched. Medline, Embase, PsycINFO, and HMIC were searched for journal articles in English, CiNii for those in Japanese, and Amazon.co.jp. for books. Descriptions of the health needs at the time of the disaster were identified using search terms and relevant articles were reviewed.
-Findings
-85 English articles, 246 Japanese articles and 13 books were identified, the majority of which were experience/activity reports. Regarding health care needs, chronic conditions such as hypertension and diabetes were reported to be the greatest burden from the early stages of the disaster. Loss of medication and medical records appeared to worsen the situation. Many sub-acute symptoms were attributed to the contaminated sludge of the tsunamis and the poor living environment at the evacuation centres. Particularly vulnerable groups were identified as the elderly, those with mental health illnesses and the disabled. Although the response of the rescue activities was prompt, it sometimes failed to meet the on-site needs due to the lack of communication and coordination.
-Conclusion
-The lessons identified from this mega-disaster highlighted the specific health needs of the vulnerable populations, particularly the elderly and those with non-communicable diseases. Further research is needed so that the lessons identified can be incorporated into future contingency plans in Japan and elsewhere.

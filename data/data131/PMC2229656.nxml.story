@@ -1,9 +1,0 @@
-, are encountered along the cell membrane of the microvilli.
- The free cell surface between microvilli shows larger cave-like depressions, likewise representing caveolae intracellulares, containing a dense material.
- The lateral cell borders are extensively folded into pleats, which do not interdigitate extensively with corresponding folds of the adjacent cell membrane.
- The terminal bars are shown to consist of thickened densities of the cell membrane itself in the region of insertion of the lateral cell wall with the free cell surface. This thickening is associated with an accumulation of dense cytoplasmic material in the immediate vicinity. The terminal bar is thus largely a cytoplasmic and cell membrane structure, rather than being primarily intercellular in nature.
- The basal cell membrane is relatively straight except for a conical eminence near the center of the cell, projecting slightly into the underlying tunica propria. The basal cell membrane itself is overlain by a delicate limiting membrane, which does not follow the lateral contours of the cell.
- Unmyelinated intercellular nerve terminals with synaptic vesicles have been encountered between the lateral walls of epithelial cells.
- A division of the gall bladder epithelial cell into five zones according to Ferner has been found to be convenient for this study.
- The following cytoplasmic components have been noted, and their distribution and appearance described: dense absorption granules, mitochondria, Golgi or agranular membranes, endoplasmic reticulum or ergastoplasm, ring figures, and irregular dense bodies, perhaps lipoid in nature. The nucleus of these cells is also described.
- 

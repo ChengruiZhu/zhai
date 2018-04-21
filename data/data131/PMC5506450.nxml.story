@@ -1,7 +1,0 @@
-The respiratory system is essential for health and high athletic performance in horses. Respiratory diseases have been recognized as having a major impact on training equine animals and are commonly cited as the second most
-common cause of wasted training time. Inflammatory airway disease (IAD) is an important cause of poor performance in young racehorses. Exercise-induced pulmonary hemorrhage (EIPH) is considered a major issue for the equine
-industry because of its high prevalence and association with reduced athletic performance. In Brazil, polo is a growing equestrian sport, but studies on it are still scarce. The aim of this study was to evaluate the occurrence of
-EIPH, the association between EIPH and IAD, and EIPH influence on the tracheal cytological profile of polo ponies. Thirty-seven horses regularly used for polo were included in this study. Endoscopic examination was performed every
-30 to 90 min after practice, and tracheal lavage was performed after 18 to 24 hr. Sixteen animals (43.2%) presented a score of 0 for mucus in endoscopy; twelve animals (32.4%) presented a score for 1 and nine animals (24.3%)
-presented score 2 of mucus. IAD was characterized by tracheal cytology in 12 animals (32.4%). The occurrence of EIPH in this study was 29.7% (11/37). No significant difference was found in the cell types in tracheal cytology when
-EIPH-positive and EIPH-negative horses were compared. Polo ponies are affected by IAD and EIPH in relevant proportions, but there was no association between EIPH and tracheal cytological profile.

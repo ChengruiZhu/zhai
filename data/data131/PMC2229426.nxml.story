@@ -1,6 +1,0 @@
- 19:1127–1140). The characteristics of this voltage-dependent fluorescence quenching are different in a conducting version of the channel with a different pore
-substitution (T449Y). Blocking the pore of the T449Y construct with either tetraethylammonium or agitoxin removes a fluorescence component that correlates with the voltage dependence but not the kinetics of ionic activation. This pore-mediated modulation of the fluorescence quenching near the S4 segment suggests that the fluorophore is affected by the state of the external pore. In addition, this modulation may reflect conformational
-changes associated with channel opening that are prevented by tetraethylammonium or agitoxin. Studies of pH
-titration, collisional quenchers, and anisotropy indicate that fluorophores attached to residues near the S4 segment are constrained by a nearby region of protein. The mechanism of fluorescence quenching near the S4 segment does not involve either reorientation of the fluorophore or a voltage-dependent excitation shift and is different from the quenching mechanism observed at a site near the S2 segment. Taken together, these results suggest
-that the extracellular portion of the S4 segment resides in an aqueous protein vestibule and is influenced by the
-state of the external pore.

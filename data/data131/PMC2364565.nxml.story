@@ -1,7 +1,0 @@
-Physicians encounter complex and sensitive ethical challenges in the medical care of pregnant women with human immunodeficiency virus (HIV) infection. This paper identifies those ethical challenges and provides concrete clinical guidance for how they should be addressed in obstetric care. The paper begins with a brief historical review, to highlight and to call into question the civil rights model of the ethics of HIV infection that has dominated the literature, clinical practice, and public policy. The authors propose an alternative ethical framework. This framework begins by underscoring the public health obligations of both physicians and pregnant women with HIV infection. The framework is based on a clinical ethics that appeals to both beneficence-based and
-autonomy-based obligations of the physician to the pregnant woman and the beneficence-based
-obligations of both the physician and the pregnant woman to the fetal patient. This framework is
-then deployed in a clinical ethical analysis of termination of pregnancy and contraception, partner
-notification, disclosure and confidentiality of her serostatus by the patient to the health care team,
-disclosure and confidentiality of her serostatus to other health care professionals, prevention of
-vertical transmission, and advance directives.
